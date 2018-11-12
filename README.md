@@ -8,7 +8,7 @@ I set up a test-net version of Bitcoin. Installed python-bitcoinrpc. For my exam
 
 ```
 from bitcoinrpc.authproxy import AuthServiceProxy, JSONRPCException
-import logging
+import logging, datetime
 
 logging.basicConfig()
 logging.getLogger('BitcoinRPC').setLevel(logging.DEBUG)
