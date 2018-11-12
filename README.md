@@ -11,7 +11,7 @@ from bitcoinrpc.authproxy import AuthServiceProxy, JSONRPCException
 import logging
 
 logging.basicConfig()
-logging.getLogger('BitcoinRPC').setLevel(logging.INFO)
+logging.getLogger('BitcoinRPC').setLevel(logging.DEBUG)
 
 rpc_host = '127.0.0.1'
 rpc_port = '18332'
