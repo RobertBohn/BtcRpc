@@ -24,3 +24,4 @@ rpc_connection = AuthServiceProxy('http://%s:%s@%s:%s'%(rpc_user, rpc_password, 
 **PART ONE: BITCOIN-CLI**
 
 * [3.3: Setting Up Your Wallet](03_3_Setting_Up_Your_Wallet.md)
+* [3.4: Receiving a Transaction](03_4_Receiving_a_Transaction.md)
