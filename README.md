@@ -25,3 +25,4 @@ rpc_connection = AuthServiceProxy('http://%s:%s@%s:%s'%(rpc_user, rpc_password, 
 
 * [3.3: Setting Up Your Wallet](03_3_Setting_Up_Your_Wallet.md)
 * [3.4: Receiving a Transaction](03_4_Receiving_a_Transaction.md)
+* [4.1: Sending Coins the Easy Way](04_1_Sending_Coins_The_Easy_Way.md)
