@@ -33,3 +33,7 @@ rpc_connection = AuthServiceProxy('http://%s:%s@%s:%s'%(rpc_user, rpc_password, 
 * [6.1: Sending a Transaction with a Multsig](06_1_Sending_a_Transaction_to_a_Multisig.md)
 * [6.2: Spending a Transaction with a Multsig](06_2_Spending_a_Transaction_to_a_Multisig.md)
 * [6.4: Sending a Transaction with a Locktime](06_4_Sending_a_Transaction_with_a_Locktime.md)
+* [6.5: Sending a Transaction with Data](06_5_Sending_a_Transaction_with_Data.md)
+
+**PART THREE: BITCOIN SCRIPTING**
+
